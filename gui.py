@@ -1,3 +1,7 @@
+// All Rights Reserved
+// © Abhigna Bandaluppi
+// Unauthorized copying or reuse is prohibited
+
 import serial
 import tkinter as tk
 import re
