@@ -65,3 +65,9 @@ Arduino (Sensor Interface)
 
 Python (GUI Visualization)
 
+## 📜 License  
+
+All Rights Reserved.  
+
+This project is the intellectual property of the author.  
+No part of this code may be copied, modified, or reused without permission.
