@@ -1,3 +1,8 @@
+// All Rights Reserved
+// © Abhigna Bandaluppi
+// Unauthorized copying or reuse is prohibited
+
+
 module alu (
     input  [15:0] a,
     input  [15:0] b,
